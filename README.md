@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlostirado23
-- I'm Fronend developer
+- I'm Frontend developer
 
 
 <!---
