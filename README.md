@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carlostirado23
+- 👋 Hi, I’m Carlos Mario Tirado Tovar
 - I'm Frontend developer
 
 
