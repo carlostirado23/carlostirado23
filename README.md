@@ -1,6 +1,5 @@
-- 👋 Hola, Soy Carlos Mario Tirado Tovar
-- Soy Desarrollador Frontend
-- Egresado no graduado de la Universidad del sinu, monteria cordoba
+- 👋 Hi, I'm Carlos Mario Tirado Tovar
+- I'm Frontend Developer
 
 
 <!---
