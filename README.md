@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Carlos Mario Tirado Tovar
 - I'm Frontend Developer
 
-  Habilidades
+Habilidades
   <ul style="display=flex'">
     <li>HTML5</li>
     <li>CSS3</li>
