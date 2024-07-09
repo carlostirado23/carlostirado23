@@ -2,7 +2,7 @@
 - I'm Frontend Developer
 
 Skills
-  <ul style="display=flex;">
+  <ul>
     <li>HTML5</li> 
     <li>CSS3</li>
     <li>BOOTSTRAP</li>
