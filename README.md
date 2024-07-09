@@ -2,7 +2,7 @@
 - I'm Frontend Developer
 
   Habilidades
-  <ul>
+  <ul style="display=flex'">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>BOOTSTRAP</li>
