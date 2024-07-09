@@ -3,20 +3,18 @@
 
   Habilidades
   <ul>
-    <ol>HTML5</ol>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>BOOTSTRAP</li>
+    <li>TAILWIND</li>
+    <li>JAVASCRIPT</li>
+    <li>REACT</li>
+    <li>GIT</li>
+    <li>GITHUB</li>
+    <li>POWERBI</li>
+    <li>MYSQL</li>
+    <li>PHP</li>
   </ul>
-  - HTML5
-- CSS3
-- - BOOTSTRAP
-- TAILWIND
-- JAVASCRIPT
-- REACT
-- GIT
-- GITHUB
-- POWERBI
-- MYSQL
-- PHP
-
 
 <!---
 carlostirado23/carlostirado23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
