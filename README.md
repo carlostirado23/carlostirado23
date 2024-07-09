@@ -3,8 +3,7 @@
 
 Habilidades
   <ul style="display=flex'">
-    <li>HTML5</li>
-    <li>CSS3</li>
+    <li>HTML5</li> <li>CSS3</li>
     <li>BOOTSTRAP</li>
     <li>TAILWIND</li>
     <li>JAVASCRIPT</li>
