@@ -1,10 +1,8 @@
 - 👋 Hi, I'm Carlos Mario Tirado Tovar
 - I'm Frontend Developer
 
-  Habilidades
-- HTML5
-- CSS3
-- BOOTSTRAP
+  Habilidades     - HTML5
+- CSS3            - BOOTSTRAP
 - TAILWIND
 - JAVASCRIPT
 - REACT
