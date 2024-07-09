@@ -1,6 +1,8 @@
 - 👋 Hi, I'm Carlos Mario Tirado Tovar
 - I'm Frontend Developer
 
+  Habilidades
+
 
 <!---
 carlostirado23/carlostirado23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
