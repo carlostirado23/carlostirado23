@@ -3,6 +3,16 @@
 
   Habilidades
 - HTML5
+- CSS3
+- BOOTSTRAP
+- TAILWIND
+- JAVASCRIPT
+- REACT
+- GIT
+- GITHUB
+- POWERBI
+- MYSQL
+- PHP
 
 
 <!---
