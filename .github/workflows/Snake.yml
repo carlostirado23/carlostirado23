@@ -18,7 +18,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Subir como artefacto
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-animation
           path: dist
