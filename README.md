@@ -55,6 +55,6 @@
 
 ## 🐍 Gráfico de contribuciones
 
-<img src="https://raw.githubusercontent.com/carlostirado23/carlostirado23/output/github-snake.svg" alt="snake gif" />
+<img src="assets/github-snake.svg" alt="snake gif" />
 
 
