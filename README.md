@@ -53,6 +53,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/carlostirado23/carlostirado23/output/snake.svg" alt="Snake animation" />
+## 🐍 Gráfico de contribuciones
 
-###
+<img src="https://raw.githubusercontent.com/carlostirado23/carlostirado23/output/github-snake.svg" alt="snake gif" />
+
+
