@@ -52,7 +52,8 @@
 ## 🐍 Gráfico de contribuciones
 
 <img src="assets/github-snake.svg" alt="snake gif" />
-![Snake animation](https://github.com/carlostirado23/snk/raw/manual-run-output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlostirado23/raw/manual-run-output/github-contribution-grid-snake.svg)
+
 
 
 
