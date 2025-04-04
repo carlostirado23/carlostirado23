@@ -51,7 +51,10 @@
 
 ## 🐍 Gráfico de contribuciones
 
-![Snake animation](https://raw.githubusercontent.com/carlostirado23/carlostirado23/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carlostirado23/carlostirado23/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 
 
