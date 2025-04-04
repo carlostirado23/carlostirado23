@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! Soy Carlos 👨🏻‍💻</h2>
+<h2 align="left">Soy Carlos 👨🏻‍💻</h2>
 
 ###
 
