@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="left" class="flex">
    <div>
      <a href="https://www.instagram.com/carlosmariotirado?igsh=NHN4eWN6dDN0NDV5" target="_blank">
        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"           />
