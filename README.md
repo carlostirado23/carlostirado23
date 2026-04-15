@@ -5,8 +5,8 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=true&locale=es" style="margin-right: 15px;" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlostirado23&theme=dark&hide_border=true&layout=compact&locale=es" />
+  <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=false&locale=es" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlostirado23&theme=dark&hide_border=false&layout=compact&locale=es" />
 </p>
 </div>
 
