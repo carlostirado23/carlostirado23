@@ -3,9 +3,17 @@
 ###
 
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlostirado23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=false&locale=es" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlostirado23&theme=dark&hide_border=false&layout=compact&locale=es" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
