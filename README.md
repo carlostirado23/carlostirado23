@@ -4,16 +4,10 @@
 
 
 <div align="center">
-  <table style="border: none">
-    <tr>
-      <td style="border: none; padding-right: 20px;">
-        <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=false&locale=es" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlostirado23&theme=dark&hide_border=false&layout=compact&locale=es" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=true&locale=es" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlostirado23&theme=dark&hide_border=true&layout=compact&locale=es" />
+</p>
 </div>
 
 ---
