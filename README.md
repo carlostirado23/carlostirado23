@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
+  <table style="border: none">
     <tr>
       <td style="border: none; padding-right: 20px;">
         <img src="https://streak-stats.demolab.com/?user=carlostirado23&theme=dark&hide_border=false&locale=es" />
